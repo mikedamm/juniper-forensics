@@ -1,0 +1,7 @@
+OS,Release,Description,"Release Date","File Name","File Extension","File Size",MD5,SHA1,SHA256,SHA512
+"Junos FIPS",12.1X44-D15,"Branch SRX-series Certified Install Package",2013-06-14,,tgz,130959629,b2ee5492c13602d4dbcb6587039a5217,4f0b8d47099a8cf7bd15517807594822af4a4807,,
+"Junos FIPS",12.1X44-D15,"SRX1k3k-series Certified Install Package",2013-06-14,,tgz,270729770,b6a850eb7f0bce4701c1c26928685ef8,6a2283f003fa94a74cec467f8379e1f4a53a655b,,
+"Junos FIPS",12.1X44-D15,"SRX5000-series Certified Install Package",2013-06-14,,tgz,367951521,6c332608bae7f22a53820d2eee3e2eae,e0311dab4e231f79ba2c57ea1616805796c23447,,
+"Junos FIPS",12.3X48-D30.12,"Branch SRX",2017-02-22,,tgz,172878270,9ac8eac44beda8434b9f9dc0ff775828,a4d9e965d4bcf6e98b2b0302344a36abe72e9c32,,
+"Junos FIPS",12.3X48-D30.12,"SRX1k3k-Series Certified Install Package",2017-02-22,,tgz,263424752,1088e50f26fd75e9554510accd8e470a,88aeaea6e8f01fdd350b503b70074facf446ac7a,,
+"Junos FIPS",12.3X48-D30.12,"SRX5000-Series Certified Install Package",2017-02-22,,tgz,395736111,ef7b339a4c4bac5eeb05df4ded42b1df,7211422186f592286caea3345faaf0b9c621cba0,,

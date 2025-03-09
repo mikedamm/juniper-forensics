@@ -1,0 +1,4 @@
+OS,Release,Description,"Release Date","File Name","File Extension","File Size",MD5,SHA1,SHA256,SHA512
+"vQFX EVAL",15.1X53-D60,"VQFX10K RE Disk Image",2016-11-04,,vmdk,355542528,758669e88213fbd7943f5da7f6d7bd59,85dd4f262b396378f6c40e1bc11a81857d6accaf,,
+"vQFX EVAL",15.1X53-D60,"Vagrant Package for Virtualbox (VQFX10K PFE)",2016-11-04,,box,584596691,3409be154062dc6348c8b10f34729da0,5b141c4c3af1799a82284629c3ed303abdcd9e2b,,
+"vQFX EVAL",15.1X53-D60,"Vagrant Package for Virtualbox (VQFX10K Routing Engine)",2016-11-04,,box,353179709,80c83d0de6a1fc8ff2f73ec11c3a4fa3,e391991f145d826b7ad4af30ed75bf67bc16a8ae,,

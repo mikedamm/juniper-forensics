@@ -1,0 +1,6 @@
+OS,Release,Description,"Release Date","File Name","File Extension","File Size",MD5,SHA1,SHA256,SHA512
+"Mobile Traffic Insight (Recommended)",1.0R1.0,"MTI-R1.0 Software Image",2012-11-08,,img,2100723712,28d7172b78e075127c58e479f627ebd1,4806886f310f0f0a545331034b2c7dbcbf4806f9,,
+"Mobile Traffic Insight (Recommended)",2.0R2.0,"MTI-2.0R1.0 Software Image",2012-12-10,,img,2100723712,d9068ef8b80b9807c4a81217c938f22f,7d4d22a4e0c386970401defd11f40bdc91e563a4,,
+"Mobile Traffic Insight (Recommended)",2.0R2.0,"MTI-2.0R1.2 Software Image in RPM format to upgrade from MTI-2.0R1.0 image",2012-12-10,,rpm,29143232,66c3493c82e1f4547913e6463396d652,9a9a55b382bf0e17809e6ed0b053d5f6786e0ccd,,
+"Mobile Traffic Insight (Recommended)",2.0R2.0,"README for MTI-2.0R1.0 with image size & checksum tool details",2012-12-10,,txt,299,f3e1b070485a42cb7acf559eca026e5f,a3162780d575e9763eaf374188ec76036935c804,,
+"Mobile Traffic Insight (Recommended)",2.0R2.0,"README for MTI-2.0R1.2 with image size & checksum tool details",2012-12-10,,txt,342,0cc7784e4bba6ea96d45ff3299409ae5,86dfc074970564a8cd79f2f9d3b9c3a70bbc3fe8,,

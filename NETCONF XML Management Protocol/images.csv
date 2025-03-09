@@ -1,0 +1,5 @@
+OS,Release,Description,"Release Date","File Name","File Extension","File Size",MD5,SHA1,SHA256,SHA512
+"NETCONF XML Management Protocol",14.1R1,"NETCONF API Perl client",2014-06-07,,gz,627249,e6f9d596ca36bd51baf523125d7b02df,ed5004d8860c0a7d793e1c5fad7fcbd49cb401c1,,
+"NETCONF XML Management Protocol",14.1R1,"NETCONF API Perl client prerequisites",2014-06-07,,gz,5712068,a2490fb9d5a8bfc609e059bbf4d248ad,50f979a07ef144667f747d79fbf69dc19415393d,,
+"NETCONF XML Management Protocol",14.1R2,"NETCONF API Perl client",2014-08-06,,gz,627305,a2a2b34b35d953b1074a36916b420517,f617848fbe6735ebe3e7f4f2064077da0af0fc7a,,
+"NETCONF XML Management Protocol",14.1R5.5,"Management Protocol",2015-08-13,,gz,627213,f047ce5fe075f3e501cc5ee9e4589a5b,dd32c4b64d9df369966f87f144400dfabb699d5b,,

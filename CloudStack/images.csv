@@ -1,0 +1,4 @@
+OS,Release,Description,"Release Date","File Name","File Extension","File Size",MD5,SHA1,SHA256,SHA512
+CloudStack,1.0,"Network Guru for CloudStack Plugin",2014-03-10,,gz,357363,7c8695499ea740f4997b5ce02a8f2351,514eadc855facb1d88d242007429adffe68d6078,,
+CloudStack,1.6,"Network Guru for CloudStack 4.2 Plugin",2014-08-13,,gz,360722,d3c6539ab7cd4a5ada076732c90de141,ab75571efd0397a1cb9dfbe0c2bfb0ddacdefc46,,
+CloudStack,1.6,"Network Guru for CloudStack 4.3 Plugin",2014-08-13,,gz,357215,2c5fc5ab80440e9924273a8b38d3db51,93548fb15279f92deb4eb5e2b8038d67615ba7ce,,

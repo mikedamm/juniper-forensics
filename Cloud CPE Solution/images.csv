@@ -1,0 +1,5 @@
+OS,Release,Description,"Release Date","File Name","File Extension","File Size",MD5,SHA1,SHA256,SHA512
+"Cloud CPE Solution",1.0.1,"Cloud CPE MANO bundle",2016-02-02,,gz,5608240181,,,,
+"Cloud CPE Solution",1.5,"Cloud CPE MANO bundle- Centralized",2016-06-02,,gz,5147546540,22aa0ddc632b027769c6645ce76ea5e3,d0a8fb5d71d33985f88c74f77765b2eb5a7d7446,,
+"Cloud CPE Solution",2.1,"Distributed Cloud CPE Network Service Controller",2017-02-09,,gz,12780373022,96eafa0ccce6c95e40327e5b11dc3fa7,405e24748ea7100bf4421c1d5b3dca93601369b9,,
+"Cloud CPE Solution",2.1.1,"Distributed Cloud CPE Network Service Controller",2017-03-13,,gz,12207975095,2e7d59b77814c0d8fb937f87306b2387,5ed45a5c21b87fd22e5e4b5301fd5abd92a864f7,,

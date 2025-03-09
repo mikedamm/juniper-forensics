@@ -1,0 +1,5 @@
+OS,Release,Description,"Release Date","File Name","File Extension","File Size",MD5,SHA1,SHA256,SHA512
+"Junos Snapshot",1.0R1,"Junos Snapshot Administrator 1.0 (64 bit)",2013-06-19,,rpm,2092380,2652504f1dd5f1fb3e7ecd0ef96f890e,40f75724272c39931fa1c0b151d4834ec8b7ce01,,
+"Junos Snapshot",1.0R1,"Snapshot Administrator 32 bit 1.0 Install Package",2013-06-19,,rpm,2023162,5a483452d69cfc6c1414ec73aa14c94d,1615e7c46c50db44307dd6d9d00ddf36bc420bdd,,
+"Junos Snapshot",1.0R1,"Snapshot Administrator 32 bit 1.0 Install Package",2013-06-19,,rpm,2023162,5a483452d69cfc6c1414ec73aa14c94d,1615e7c46c50db44307dd6d9d00ddf36bc420bdd,,
+"Junos Snapshot",1.0R1,"Snapshot Administrator 64 bit 1.0 Install Package",2013-06-19,,rpm,2092380,2652504f1dd5f1fb3e7ecd0ef96f890e,40f75724272c39931fa1c0b151d4834ec8b7ce01,,

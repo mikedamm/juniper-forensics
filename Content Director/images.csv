@@ -1,0 +1,4 @@
+OS,Release,Description,"Release Date","File Name","File Extension","File Size",MD5,SHA1,SHA256,SHA512
+"Content Director",3.1-22,MFA-3.1,2012-03-07,,img,21166650,83ecf26d1c622e7649ebfa3ad3af4ca4,38b72dcc868045beb95e4f8fcdb7e638690a26ec,,
+"Content Director",3.3-3,"MFA-3.3 Installation Image",2012-12-21,,img,33182638,6a043a7ebc039f30575f5b28ab557bb3,5f50e2d6060306e1789994c17a7768a537ddad11,,
+"Content Director",3.3-3,"MFC-12.2.4 Config Schema",2012-12-21,,tgz,15189,6e4b70aedb2f41b3d9b7f48dec255b14,d7224fc6c8177a578a0c64d5390f2ce1c2d67c3d,,

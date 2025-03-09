@@ -7,8 +7,9 @@ While Juniper may provide hashes, they are often scattered across various downlo
 
 ## Files
 
+Files are sorted into directories based on the name of the "operating system" Juniper has assigned to each product.
+
   - images.csv
-    - Model Name
     - OS Name
     - Release
     - Description

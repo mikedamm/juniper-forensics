@@ -1,0 +1,13 @@
+OS,Release,Description,"Release Date","File Name","File Extension","File Size",MD5,SHA1,SHA256,SHA512
+"Juniper Quantum Plug-in for Openstack",0.1.2,"Quantum Plugin for OpenStack",2013-04-15,,gz,13199,01b649e3e06958c56cb1e8c3821dc64d,d051553b06efb4f4b946d722401e2e819446aacb,,
+"Juniper Quantum Plug-in for Openstack",0.2-193,"Neutron Plugin for OpenStack",2013-07-09,,gz,16927,f7859c297adb76e825ccf524340e99f0,0a9a6bd3c0c35554999bf823ebfc30cdca2ce037,,
+"Juniper Quantum Plug-in for Openstack",1.0-313,"Neutron Plugin for OpenStack",2013-10-25,,gz,28841,8aef51465ac6cc0af80805b053ff7c78,aa116260e7f7fb5986d3ffeb96ee530e4b2fb5ce,,
+"Juniper Quantum Plug-in for Openstack",1.5,"Neutron Plugin for OpenStack",2014-06-24,,deb,27994,19ad42f85ff3d3f9fbe3350d7888c017,dbc7bf90798eac770cbf3c409864c402a488d86a,,
+"Juniper Quantum Plug-in for Openstack",1.6R1,"Neutron Plugin for Openstack - Redhat Platforms",2014-10-21,,rpm,125644,fcf95477db7fa08cd8b0b60d617c82a4,592e4c59046991dbddcee1c99cd800352738c47e,,
+"Juniper Quantum Plug-in for Openstack",1.6R1,"Neutron Plugin for Openstack - Ubuntu",2014-10-21,,deb,31264,c1c0d81cce6cc0f2bc70c86597d3521c,dff34798d9eff50c6929faa9ee467f60fd2f6e9d,,
+"Juniper Quantum Plug-in for Openstack",2.0R1,"Neutron Juniper Plugin for Openstack",2015-03-11,,gz,447171,0838547fb4ec6ca62ec286d6b4493eb6,d582f4527bc60fe6284bc74bd2abecc94a9b196b,,
+"Juniper Quantum Plug-in for Openstack",2.3R1,"Neutron Juniper Plugin for Openstack",2015-06-26,,tgz,403631,5036b3f66ba0fdab028e9ac9a48f4034,d88efb43f55404de908f7d79bfb61c87c21a579c,,
+"Juniper Quantum Plug-in for Openstack",2.5R1,"Neutron Juniper Plugin for Openstack",2015-09-09,,tgz,481903,082fd0e1818068c95f9277c7b2f5f10f,09085db7e39a606cee3fac5cba97d0beeb492e83,,
+"Juniper Quantum Plug-in for Openstack",2.7,"Neutron Juniper Plugin for Openstack",2016-06-16,,gz,250116,f5a7c854f06b7b7d2dd5fb3292d3bc0c,b42bdf9f0f96472c791ad229b50ed15996344b35,,
+"Juniper Quantum Plug-in for Openstack",2.7.1,"Neutron Juniper Plugin for Openstack",2016-10-20,,gz,308042,e0a368fd66960ccf158bbff17139b6ae,8a2b7a631d148a3b060566c16421ffdf886a9766,,
+"Juniper Quantum Plug-in for Openstack",3.0.0,"Neutron Juniper Plugin for Openstack",2016-12-27,,tgz,360380,065c1f731a42e13b993ad7424001f8f1,c3428d78454473c8fb66692cfb1a4e4ba1921c8f,,
